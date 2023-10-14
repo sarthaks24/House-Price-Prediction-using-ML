@@ -20,11 +20,11 @@ In this project I have built a Real Estate Price Predictor using the fudamentals
 
 #### Architecture for the application
 
-<img  src="images/1.png">
+<img  src="Images/1.png">
 
 #### Architecture for deployment
 
-<img src="images/2.png">
+<img src="Images/2.png">
 
 ---
 
